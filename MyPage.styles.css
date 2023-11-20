@@ -8,8 +8,28 @@ body[b-xp2bdxh4i4] {
     justify-content: space-between;
 }
 
+input[b-xp2bdxh4i4]{
+    border:none;
+    border-bottom: 1px solid gray;
+    margin: 5px;
+}
+
+h1[b-xp2bdxh4i4]{
+    text-transform: uppercase;
+    text-align:center;
+}
+
 #function-inp[b-xp2bdxh4i4]{
     width:70vw;
+}
+
+.info[b-xp2bdxh4i4]{
+    text-align:center;
+}
+
+.waiting[b-xp2bdxh4i4]{
+    text-align:center;
+    color:dimgray;
 }
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-q3bi36tytb] {
